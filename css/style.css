@@ -57,7 +57,7 @@ li{
 .blog2{
     position: absolute;
     border: 0px solid black;
-    width: 130px;
+    width: 100px;
     height: 55px;
     color: #fff;
     background-color:rgb(10, 133, 204);
@@ -205,9 +205,6 @@ li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
 }
-/*.about-item-title:hover{
-    color: #fff;
-}*/
 .ltr:after{
     position: absolute;
     content: "";
