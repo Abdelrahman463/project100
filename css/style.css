@@ -205,6 +205,9 @@ li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
 }
+/*.about-item-title:hover{
+    color: #fff;
+}*/
 .ltr:after{
     position: absolute;
     content: "";
@@ -1017,7 +1020,7 @@ li{
 /* -----------------------------------------------------------------BLOG--------------------------------------------------------------------------*/
 .blog{
     padding-top:120px ;
-    padding-bottom: 0px;
+    padding-bottom: 70px;
     background-color: #f8f8f8;
 }
 .section-header6{
@@ -1042,6 +1045,7 @@ li{
     margin: auto;
     margin-top: 75px;
     font-family: sans-serif;
+    background-color:#999 ;
 }
 .blog-content{
     overflow: hidden;
@@ -1055,7 +1059,7 @@ li{
 }
 .blog-img{
     width: 100%;
-    margin-left: 23px;
+    margin-left: 80px;
 }
 .blog-info{
     padding: 20px;
